@@ -11,11 +11,11 @@ Application must connect to Travel Experts Database in MSSQL. Run the sql script
 
 ### Search
 
-<img src="sample/travelexperts_search.gif" width="100%" alt="search"></img>
+<img src="gif/travelexperts_search.gif" width="100%" alt="search"></img>
 
 ### Update
 
-<img src="sample/travelexperts_update.gif" width="100%" alt="update"></img>
+<img src="gif/travelexperts_update.gif" width="100%" alt="update"></img>
 
 ## Built With
 
