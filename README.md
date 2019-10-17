@@ -5,7 +5,7 @@ A Desktop Application to administer data for a travel agency. Data stored on the
 ## Before using
 Application must connect to Travel Experts Database in MSSQL. Run the sql script included (travelexperts.sql)
 
-## Take A Peak
+## Take A Peek
 
 <img src="gif/travelexperts_overview.gif" width="100%" alt="view"></img>
 
