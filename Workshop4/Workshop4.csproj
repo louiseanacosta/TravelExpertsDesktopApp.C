@@ -99,7 +99,6 @@
     <Compile Include="Model\ProductSupplierWithName.cs" />
     <Compile Include="Model\Products_suppliers.cs" />
     <Compile Include="Model\Suppliers.cs" />
-    <Compile Include="Services\PackageService.cs" />
     <Compile Include="View\frmAddProduct.cs">
       <SubType>Form</SubType>
     </Compile>

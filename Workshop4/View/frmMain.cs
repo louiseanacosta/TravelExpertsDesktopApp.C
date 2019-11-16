@@ -21,15 +21,19 @@ namespace Workshop4
 
     public partial class frmMain : Form
     {
-        List<Package> packages;
-        public Package package; // current package
-
-
+        
         public frmMain()
         {
             this.packages = PackageDB.GetPackages();
             InitializeComponent();
         }
+
+        #region  PACKAGE
+
+        
+        List<Package> packages;
+        public Package package; // current package
+
 
         // form load
         private void Form1_Load(object sender, EventArgs e)
@@ -404,7 +408,9 @@ namespace Workshop4
         //--------------------------- END - LOUISE ACOSTA ------------------------------
 
 
+        #endregion
 
+        #region PRODUCTS & SUPPLIERS
         //--------------------------- DongMing Hu -----------------------------------
 
         // ----- 5 MAIN Nav Buttons -----
@@ -827,6 +833,7 @@ namespace Workshop4
         }
 
         //--------------------------- END - DongMing Hu ------------------------------
+        #endregion
 
     }
 }
