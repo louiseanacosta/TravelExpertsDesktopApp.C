@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.489
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workshop4", "Workshop4\Workshop4.csproj", "{D071EE4C-EB8D-40A6-9F3F-285C7974123D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travel_Experts", "Travel_Experts\Travel_Experts.csproj", "{9AD9D050-43D8-4A58-8B84-D0DDE41A6ECD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{D071EE4C-EB8D-40A6-9F3F-285C7974123D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D071EE4C-EB8D-40A6-9F3F-285C7974123D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D071EE4C-EB8D-40A6-9F3F-285C7974123D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9AD9D050-43D8-4A58-8B84-D0DDE41A6ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9AD9D050-43D8-4A58-8B84-D0DDE41A6ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9AD9D050-43D8-4A58-8B84-D0DDE41A6ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9AD9D050-43D8-4A58-8B84-D0DDE41A6ECD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

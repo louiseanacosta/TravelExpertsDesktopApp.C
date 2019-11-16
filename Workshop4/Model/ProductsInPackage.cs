@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
 //--------------------------- LOUISE ACOSTA ------------------------------
-namespace Travel_Experts
+namespace Workshop4
 {
     public class ProductsInPackage
     {

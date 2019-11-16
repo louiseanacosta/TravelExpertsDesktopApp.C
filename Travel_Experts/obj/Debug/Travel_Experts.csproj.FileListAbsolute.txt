@@ -1,6 +1,5 @@
 C:\Users\louis\OneDrive\Documents\GitHub\TravelExpertsDesktopAppC\Travel_Experts\bin\Debug\Travel_Experts.dll
 C:\Users\louis\OneDrive\Documents\GitHub\TravelExpertsDesktopAppC\Travel_Experts\bin\Debug\Travel_Experts.pdb
-C:\Users\louis\OneDrive\Documents\GitHub\TravelExpertsDesktopAppC\Travel_Experts\obj\Debug\Travel_Experts.csprojAssemblyReference.cache
 C:\Users\louis\OneDrive\Documents\GitHub\TravelExpertsDesktopAppC\Travel_Experts\obj\Debug\Travel_Experts.csproj.CoreCompileInputs.cache
 C:\Users\louis\OneDrive\Documents\GitHub\TravelExpertsDesktopAppC\Travel_Experts\obj\Debug\Travel_Experts.dll
 C:\Users\louis\OneDrive\Documents\GitHub\TravelExpertsDesktopAppC\Travel_Experts\obj\Debug\Travel_Experts.pdb

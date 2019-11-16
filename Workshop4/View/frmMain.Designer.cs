@@ -948,7 +948,7 @@
             // 
             // packageBindingSource
             // 
-            this.packageBindingSource.DataSource = typeof(Travel_Experts.Package);
+            this.packageBindingSource.DataSource = typeof(Package);
             this.packageBindingSource.Sort = "";
             this.packageBindingSource.CurrentChanged += new System.EventHandler(this.packageBindingSource_CurrentChanged);
             // 
@@ -1162,7 +1162,7 @@
             // 
             // productsInPackageBindingSource
             // 
-            this.productsInPackageBindingSource.DataSource = typeof(Travel_Experts.ProductsInPackage);
+            this.productsInPackageBindingSource.DataSource = typeof(ProductsInPackage);
             // 
             // btnAddOld
             // 
@@ -1370,7 +1370,7 @@
             // 
             // newProductPackageBindingSource
             // 
-            this.newProductPackageBindingSource.DataSource = typeof(Travel_Experts.ProductsInPackage);
+            this.newProductPackageBindingSource.DataSource = typeof(ProductsInPackage);
             // 
             // btnBackList2
             // 
@@ -1700,7 +1700,7 @@
             // 
             // productSupplierWithNameBindingSource
             // 
-            this.productSupplierWithNameBindingSource.DataSource = typeof(Travel_Experts.ProductSupplierWithName);
+            this.productSupplierWithNameBindingSource.DataSource = typeof(ProductSupplierWithName);
             // 
             // twoTabEdit
             // 
@@ -1736,7 +1736,7 @@
             // 
             // productsBindingSource
             // 
-            this.productsBindingSource.DataSource = typeof(Travel_Experts.Products);
+            this.productsBindingSource.DataSource = typeof(Products);
             // 
             // twoTxtProdSuppId
             // 
@@ -1764,7 +1764,7 @@
             // 
             // suppliersBindingSource
             // 
-            this.suppliersBindingSource.DataSource = typeof(Travel_Experts.Suppliers);
+            this.suppliersBindingSource.DataSource = typeof(Suppliers);
             // 
             // twoTabAdd
             // 
@@ -2386,7 +2386,7 @@
             // 
             // productsInPackageBindingSource1
             // 
-            this.productsInPackageBindingSource1.DataSource = typeof(Travel_Experts.ProductsInPackage);
+            this.productsInPackageBindingSource1.DataSource = typeof(ProductsInPackage);
             // 
             // contextMenuStrip1
             // 

@@ -83,36 +83,52 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="frmAddProduct.cs">
+    <Compile Include="DAO\AvailableProductsDB.cs" />
+    <Compile Include="DAO\PackageDB.cs" />
+    <Compile Include="DAO\Packages_products_suppliersDB.cs" />
+    <Compile Include="DAO\ProductsDB.cs" />
+    <Compile Include="DAO\ProductsInPackageDB.cs" />
+    <Compile Include="DAO\Products_suppliersDB.cs" />
+    <Compile Include="DAO\SuppliersDB.cs" />
+    <Compile Include="DAO\TravelExpertsDB.cs" />
+    <Compile Include="Model\AvailableProducts.cs" />
+    <Compile Include="Model\Package.cs" />
+    <Compile Include="Model\Packages_products_suppliers.cs" />
+    <Compile Include="Model\Products.cs" />
+    <Compile Include="Model\ProductsInPackage.cs" />
+    <Compile Include="Model\ProductSupplierWithName.cs" />
+    <Compile Include="Model\Products_suppliers.cs" />
+    <Compile Include="Model\Suppliers.cs" />
+    <Compile Include="View\frmAddProduct.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmAddProduct.Designer.cs">
+    <Compile Include="View\frmAddProduct.Designer.cs">
       <DependentUpon>frmAddProduct.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmLogin.cs">
+    <Compile Include="View\frmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmLogin.Designer.cs">
+    <Compile Include="View\frmLogin.Designer.cs">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmMain.cs">
+    <Compile Include="View\frmMain.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmMain.Designer.cs">
+    <Compile Include="View\frmMain.Designer.cs">
       <DependentUpon>frmMain.cs</DependentUpon>
     </Compile>
-    <Compile Include="Program.cs" />
+    <Compile Include="Model\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="PropertyComparer.cs" />
-    <Compile Include="SortableBindingList.cs" />
-    <Compile Include="Validator.cs" />
-    <EmbeddedResource Include="frmAddProduct.resx">
+    <Compile Include="Model\PropertyComparer.cs" />
+    <Compile Include="Model\SortableBindingList.cs" />
+    <Compile Include="Model\Validator.cs" />
+    <EmbeddedResource Include="View\frmAddProduct.resx">
       <DependentUpon>frmAddProduct.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmLogin.resx">
+    <EmbeddedResource Include="View\frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmMain.resx">
+    <EmbeddedResource Include="View\frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -146,12 +162,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Travel_Experts\Travel_Experts.csproj">
-      <Project>{9ad9d050-43d8-4a58-8b84-d0dde41a6ecd}</Project>
-      <Name>Travel_Experts</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\donation.png" />
@@ -189,5 +199,6 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

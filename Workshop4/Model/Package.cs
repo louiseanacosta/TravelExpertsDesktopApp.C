@@ -4,12 +4,8 @@
  **/
 
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Travel_Experts
+namespace Workshop4
 {
     public class Package
     {

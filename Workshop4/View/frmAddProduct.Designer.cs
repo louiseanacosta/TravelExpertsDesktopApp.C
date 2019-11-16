@@ -61,7 +61,7 @@
             // 
             // availableProductsBindingSource
             // 
-            this.availableProductsBindingSource.DataSource = typeof(Travel_Experts.AvailableProducts);
+            this.availableProductsBindingSource.DataSource = typeof(AvailableProducts);
             // 
             // dataGridViewAvailableProducts
             // 
