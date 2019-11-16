@@ -826,21 +826,7 @@ namespace Workshop4
             fourTxtAddSuppId.Text = newId.ToString();
         }
 
-
-
-
-
-
-
-
-
-
-
-
-
         //--------------------------- END - DongMing Hu ------------------------------
-
-
 
     }
 }

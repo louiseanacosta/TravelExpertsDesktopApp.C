@@ -3,8 +3,6 @@ C:\Users\louis\OneDrive\Documents\GitHub\TravelExpertsDesktopAppC\Workshop4\bin\
 C:\Users\louis\OneDrive\Documents\GitHub\TravelExpertsDesktopAppC\Workshop4\bin\Debug\Workshop4.application
 C:\Users\louis\OneDrive\Documents\GitHub\TravelExpertsDesktopAppC\Workshop4\bin\Debug\Workshop4.exe
 C:\Users\louis\OneDrive\Documents\GitHub\TravelExpertsDesktopAppC\Workshop4\bin\Debug\Workshop4.pdb
-C:\Users\louis\OneDrive\Documents\GitHub\TravelExpertsDesktopAppC\Workshop4\bin\Debug\Travel_Experts.dll
-C:\Users\louis\OneDrive\Documents\GitHub\TravelExpertsDesktopAppC\Workshop4\bin\Debug\Travel_Experts.pdb
 C:\Users\louis\OneDrive\Documents\GitHub\TravelExpertsDesktopAppC\Workshop4\obj\Debug\Workshop4.csprojAssemblyReference.cache
 C:\Users\louis\OneDrive\Documents\GitHub\TravelExpertsDesktopAppC\Workshop4\obj\Debug\Workshop4.frmAddProduct.resources
 C:\Users\louis\OneDrive\Documents\GitHub\TravelExpertsDesktopAppC\Workshop4\obj\Debug\Workshop4.frmLogin.resources
@@ -15,6 +13,5 @@ C:\Users\louis\OneDrive\Documents\GitHub\TravelExpertsDesktopAppC\Workshop4\obj\
 C:\Users\louis\OneDrive\Documents\GitHub\TravelExpertsDesktopAppC\Workshop4\obj\Debug\Workshop4.TrustInfo.xml
 C:\Users\louis\OneDrive\Documents\GitHub\TravelExpertsDesktopAppC\Workshop4\obj\Debug\Workshop4.exe.manifest
 C:\Users\louis\OneDrive\Documents\GitHub\TravelExpertsDesktopAppC\Workshop4\obj\Debug\Workshop4.application
-C:\Users\louis\OneDrive\Documents\GitHub\TravelExpertsDesktopAppC\Workshop4\obj\Debug\Workshop4.csproj.CopyComplete
 C:\Users\louis\OneDrive\Documents\GitHub\TravelExpertsDesktopAppC\Workshop4\obj\Debug\Workshop4.exe
 C:\Users\louis\OneDrive\Documents\GitHub\TravelExpertsDesktopAppC\Workshop4\obj\Debug\Workshop4.pdb

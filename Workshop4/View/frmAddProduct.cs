@@ -14,19 +14,18 @@ namespace Workshop4
     //--------------------------- LOUISE ACOSTA ------------------------------
     public partial class frmAddProduct : Form
     {
-        
+        public Package package;
+        public BindingSource productsInPackageBindingSource;
+        public bool addToExistingPackage; // indicates whether it is adding to an existing package(modify tab)
+        List<AvailableProducts> products = AvailableProductsDB.GetAvailableProducts();
+
         public frmAddProduct(BindingSource incommingProductsInPackageBindingSource)
         {
             this.productsInPackageBindingSource = incommingProductsInPackageBindingSource;
             InitializeComponent();
         }
 
-        public Package package;
-        public BindingSource productsInPackageBindingSource;
-        public bool addToExistingPackage; // indicates whether it is adding to an existing package(modify tab)
-        List<AvailableProducts> products = AvailableProductsDB.GetAvailableProducts();
-       
-
+    
         private void AddProduct_Load(object sender, EventArgs e)
         {
             var _sortableProducts = new SortableBindingList<AvailableProducts>(products);

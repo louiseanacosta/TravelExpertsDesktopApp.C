@@ -42,18 +42,6 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Travel_Experts.dll" size="4096">
-      <assemblyIdentity name="Travel_Experts" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>3wfzC6cHMIOldYUQcMTBbLFNxrmh1tHVFaYmXehhS6E=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Workshop4.exe" size="419840">
       <assemblyIdentity name="Workshop4" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -61,7 +49,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>pVnlJ9UwbfbipWln7nPViUyRSFdn0YmETw9gAeqBMIs=</dsig:DigestValue>
+        <dsig:DigestValue>l2j24Nm1qRXiVzYZZEmrLtaH8iiytEfbgFkriqlD24g=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -7,14 +7,14 @@
     <framework targetVersion="4.6.1" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Workshop4.exe.manifest" size="5617">
+    <dependentAssembly dependencyType="install" codebase="Workshop4.exe.manifest" size="4972">
       <assemblyIdentity name="Workshop4.exe" version="1.0.0.3" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DVmM+uIXfzSo2aERxK0hM8kgNj22+Mc003csOlgOcis=</dsig:DigestValue>
+        <dsig:DigestValue>xRSB2k9PNuZseF8Kd6gWRR2gPV/Z/wQrjkUgkVOVXE8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
